@@ -1,0 +1,19 @@
+body {
+    font-family: Cambria, sans-serif;
+    text-align: left;
+  }
+
+.table {
+    border-collapse: collapse;
+}
+
+.number {
+    text-align: right;
+}
+
+.cel {
+    padding: 10px;
+    border-color: #888;
+    border-style: solid;
+    border-width: 1px;
+}
